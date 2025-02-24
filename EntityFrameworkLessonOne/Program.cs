@@ -3,6 +3,9 @@ using EntityFrameworkLessonOne.DatabaseFolder;
 using EntityFrameworkLessonOne.Serviecs;
 using Microsoft.EntityFrameworkCore;
 
+
+
+
 namespace EntityFrameworkLessonOne
 {
     public class Program
